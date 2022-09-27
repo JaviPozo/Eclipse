@@ -1,0 +1,16 @@
+package Ejerciciosbasicos;
+
+import java.util.Scanner;
+
+public class Ejerciciosbasico2 {
+
+	private static Scanner sc;
+
+	public static void main(String[] args) {
+		sc = new Scanner(System.in);
+		System.out.println("que edad tiene");
+		int edad = sc.nextInt ();
+		System.out.println("Su edad el año que viene será" + edad);
+
+	}
+}

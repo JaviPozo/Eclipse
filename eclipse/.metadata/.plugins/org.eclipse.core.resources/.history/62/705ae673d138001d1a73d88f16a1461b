@@ -1,0 +1,14 @@
+package Exercise7;
+
+public class Exercise7 {
+
+	System.out.println("************");
+	System.out.println("     *      ");
+	System.out.println("     *      ");
+	System.out.println("     *      ");
+	System.out.println("     *      ");
+	System.out.println("     *      ");
+	System.out.println("    *     ");
+	System.out.println("   *    ");
+	System.out.println("* *      ");
+}

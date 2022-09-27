@@ -1,0 +1,13 @@
+package Ejerciciosbasicos;
+
+public class Ejerciciosbaicos {
+
+	public static void main(String[] args) {
+		System.out.println("Número");
+		
+		
+		
+		
+		
+	}
+}

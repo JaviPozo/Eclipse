@@ -1,0 +1,16 @@
+package Ejerciciosbasicos;
+
+public class Ejerciciosbaicos {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Elije un número");
+		número = sc.nextInt ();
+		System.out.println("El número es" + número);
+		
+		
+			
+		
+	}
+}

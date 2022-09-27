@@ -1,0 +1,20 @@
+package Exercise2part1;
+
+import java.util.Scanner;
+
+public class Exercise1 {
+
+	public static void main(String[] args) {
+		final int YEAR = 2022 ;
+		int age, bornIn;
+		
+		Scanner keyboard = new Scanner(System.in);
+	    System.out.print("How old are you this year? ");
+		age = (int)keyboard.nextInt();
+		
+		bornIn = (YEAR - age);
+		System.out.println("I think you were born in: " + bornIn );
+
+	}
+
+}

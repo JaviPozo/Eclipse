@@ -1,0 +1,14 @@
+package Ejerciciosbasicos;
+
+import java.util.Scanner;
+
+import javax.swing.JSpinner;
+
+public class Ejerciciosbaicos {
+
+	public static void main(String[] args) {
+		System.out.println("Escribe tu número");
+		Scanner.sc = new JSpinner (System.in);
+
+	}
+}
